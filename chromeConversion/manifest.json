@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "browser_action": {
     "default_popup": "index.html",
-    "default_icon": "hello_extensions.png"
+    "default_icon": "output-onlinepngtools.png"
   },
   "commands": {
     "_execute_browser_action": {
